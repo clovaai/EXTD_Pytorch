@@ -5,7 +5,9 @@ YoungJoon Yoo, Dongyoon Han, Sangdoo Yun
 
 https://arxiv.org/abs/1906.06579
 
-![blackpink](https://user-images.githubusercontent.com/12525981/61967606-c6a24780-b010-11e9-8178-4db6e36ec674.jpg)
+![extd_teaser](https://user-images.githubusercontent.com/12525981/62098369-f7aaa280-b2c4-11e9-80dc-7c21fbeda652.png)
+![table](https://user-images.githubusercontent.com/12525981/62098372-faa59300-b2c4-11e9-8ed7-6ef302eace46.png)
+
 
 ### Requirement
 * pytorch 1.0 (checked at 1.0) 
